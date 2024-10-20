@@ -830,7 +830,8 @@
     margin-top: 15%;
   }
   .header-content .right-header .name { 
-    width: 70%; 
+    width: 50%; 
+    height: 12%
     top: 25%; 
     position: absolute; 
     color: rgb(20, 202, 230); 
